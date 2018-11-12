@@ -18,8 +18,8 @@
  */
 package com.gkr.util.test;
 
-public class Test {
-  public static void main(String[] args) {
-	System.out.println("这是dev分支上的一个测试");
-}
+public class NewTest {
+	public static void main(String[] args) {
+		System.out.println("这是dev分支上的一个新的测试");
+	}
 }
